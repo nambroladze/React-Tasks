@@ -1,6 +1,7 @@
 // ინსტრუქცია
 // userData ობიექტის გამოყენებით გამოიტანეთ h1-ში firstName და lastName, ხოლო p-ში title.
 // ხელით არ უნდა იყოს ჩაწერილი მაგ: <h1>Niko Ambroladze</h1> ან <p>Instructor</p>.!!!
+// მხოლოდ User კომპონენტში უნდა შევცვალოთ კოდი
 
 const userData = {
   firstName: "Niko", // შეგიძლიათ რაც გაგიხარდებათ ის მნიშვნელობა ჩაწეროთ
